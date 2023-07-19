@@ -1,0 +1,9 @@
+.font{
+    font-family:'Arial Black';
+}
+.shadow{
+    text-shadow: 2px 2px #FF0000;
+}
+.space{
+    letter-spacing: 3px;
+}
